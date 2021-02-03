@@ -7,8 +7,7 @@ How do you think good design influences people when visiting a website and what 
 
 
 
-https://coleydohmen.github.io/day-03/
-
-there are two files within that (sorry!)
+https://github.com/ColeyDohmen/day-03
+ (sorry I did this link wrong, too many folders, my bad)
 
 Today we went over Scrum with Mark and what all of that entitles. Tim went over Bootstrap and how to use it.
