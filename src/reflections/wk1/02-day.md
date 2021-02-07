@@ -1,5 +1,5 @@
 What is a Pseudo-Class and what are some of the most common ones you think you will use?
-
+A pseudo-class defines the special state of an element. I feel like a few common ones would be hover, link, and active.
 
 What is Specificity and how might you use it to your benefit? Specificity is a part of CSS that assigns a number value to items to help determine which rules take precedence over others. 
 

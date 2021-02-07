@@ -22,4 +22,4 @@ What are the benefits of having multiple branches?
 Branches help us be able to fix issues within our code without commiting them and potentially ruining a system or causing more hiccups. They are kind of like a little detour for our code until any issues are fixed. They help us test out our code before sending it to the master branch.
 
 What is the difference between Git and GitHub
-GitHub is a remote repository that allows us to save our code into the "cloud" just in case anything happens
+GitHub is a remote repository that allows us to save our code into the "cloud" just in case anything happens and where you can share repositories and projects with peers. Git is something that is local to your computer,
