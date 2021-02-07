@@ -8,3 +8,5 @@ Do you think wire-frames are worth the Time, Energy, and Effort that they requir
 
 Mock website with partner
 https://elviskurtovic.github.io/partnerchallengesite/
+
+Today we learned about Scrum and what it entails. We learned about Figma and how to use it. We recreated a mock website with a partner.
