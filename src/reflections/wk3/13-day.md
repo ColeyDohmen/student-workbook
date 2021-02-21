@@ -4,4 +4,4 @@ What are the two common operations that we will set in the handler? Two common o
 
 What do you have to make sure you are doing with every Get to insure the value does not become undefined? You can use a custom override called a trap. So if you "return" the original object you won't get back undefined.
 
-What are some of the benefits of the proxy object that we are using in our structure for applications? They help us 
+What are some of the benefits of the proxy object that we are using in our structure for applications? They help us get access to objects that we need access to across our code, but at the same time we can keep those objects where they belong and we have the ability to hide them from the user.
