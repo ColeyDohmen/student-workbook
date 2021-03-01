@@ -23,7 +23,7 @@ A callback function is passed as an argument to another function. A function tha
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+A Promise is a proxy for a value not necessarily known when the promise is created, it may produce a single value some time in the future. You use catch () to capture an error from a promise.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
