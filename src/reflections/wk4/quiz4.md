@@ -38,7 +38,7 @@ Application programming interface
 **8.** In the `MVC` design pattern, who is responsible for making calls to `APIs`?
 <!-- enter you answer in the space below -->
 ```
-The controller.
+The service.
 ```
 **9.** What is the purpose of encapsulation in programming?
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@ Encapsulation is used to hide parts of your code, preventing direct access to th
 **11.** What is a 500 error?
 <!-- enter you answer in the space below -->
 ```
-A 500 error is a server error
+A 500 error is an internal server error
 ```
