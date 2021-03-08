@@ -8,3 +8,9 @@ A common virtual property is the full name of a person.
 
 How do you search by a virtual properties value?
 You use a virtual get method, this is a function returning the virtual value to you.
+
+
+Idk what days are what so here these are,
+https://github.com/ColeyDohmen/node-intro-burgers.git
+https://github.com/ColeyDohmen/gregslist-node.git
+https://github.com/ColeyDohmen/planet-node.git
