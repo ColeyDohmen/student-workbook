@@ -9,3 +9,10 @@ You use a route when you have multiple layers of information that you need to de
 
 Can you pass parameters through nested routes? When might you use them? 
 Yes you can pass IDs through nested routes. You would use them when you want to work your way up through routes and see which routes belong to who.
+
+
+
+https://github.com/ColeyDohmen/vue-playground.git
+https://github.com/ColeyDohmen/vue-nasa.git
+https://github.com/ColeyDohmen/latewinter21-gregslist.git
+https://github.com/ColeyDohmen/checkpoint5.git
