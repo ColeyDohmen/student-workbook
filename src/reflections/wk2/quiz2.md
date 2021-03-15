@@ -2,7 +2,8 @@
 
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
-``` var, let, and const
+```
+var, let, and const
 
 ```
 **2.** What is the definition of a function?
@@ -21,7 +22,8 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 ``` 
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
-```pineapple is at index 2, arrays are 0 based index
+```
+pineapple is at index 2, arrays are 0 based index
 
 ```
 **5.** With these two objects: 
@@ -46,12 +48,14 @@ for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
 <!-- enter you answer in the space below -->
-```the last piece of a for loop is called the afterthought, to increment by one each loop you would write i++
+```
+the last piece of a for loop is called the afterthought, to increment by one each loop you would write i++
 
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
-```DOM stands for Document Object Model
+```
+DOM stands for Document Object Model
 
 ```
 
