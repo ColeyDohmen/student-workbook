@@ -1,6 +1,7 @@
 3/18/2021
 
 Reflect on your partner project and answer the following questions
+
 Which principles from this weeks reading did you implement?
 
 What went well?
