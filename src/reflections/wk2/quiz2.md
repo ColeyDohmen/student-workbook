@@ -61,12 +61,14 @@ DOM stands for Document Object Model
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
-```number, string, undefined, boolean, bigint, symbol, object, function, null
+```
+number, string, undefined, boolean, bigint, symbol, object, function, null
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
-```A parameter is what is what is declared, an argument is what actually gets passed into the function.
+```
+A parameter is what is what is declared, an argument is what actually gets passed into the function.
 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
