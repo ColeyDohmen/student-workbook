@@ -45,5 +45,5 @@ it is what makes your data unique
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+The <slot> element is a placeholder inside a web component that you can fill with your own markup.
 ```
