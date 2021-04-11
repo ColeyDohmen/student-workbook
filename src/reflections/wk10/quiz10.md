@@ -35,7 +35,7 @@ abstract class Car
 **6.** In the example what is `string` an indication of?
 <!-- enter you answer in the space below -->
 ```
-
+that the Start method will return a string
 ```
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
@@ -55,5 +55,5 @@ abstract class Car
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
 ```
-
+Only things within that structure.
 ```
