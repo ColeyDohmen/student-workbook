@@ -9,4 +9,4 @@ What are the Value-type data types? What differences do you notice from JavaScri
 A value type holds a data value within its own memory space, they directly contain values.
 
 In your own words how do Reference types get stored in memory? How does this differ from Value types?
-Reference types contains a pointer to another memory location that holds the data. Value types store data directly, while reference types do not store them directly.
+Reference types contains a pointer to another memory location that holds the data. Value types store data directly, while reference types do not store them directly.`
